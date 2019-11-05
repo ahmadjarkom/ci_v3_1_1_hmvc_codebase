@@ -1,0 +1,123 @@
+@charset "UTF-8";
+.subsubdrop {
+    color: #efefef!important;
+    display: none;
+    padding-left:10px!important;
+}
+
+.my_notify_icon {
+    max-width: 20px!important;
+    max-height: 20px!important;
+}
+
+.not_read {
+	color: #DA251C!important;
+}
+
+.read {
+	color: black!important;
+}
+
+.warning {
+	color: #f4ecb0!important;
+}
+
+.main-sidebar{
+	overflow: auto!important;
+}
+
+.radius_10 {
+	border-radius: 10px;
+}
+
+.label_center {
+	display: flex!important;
+    align-items: center!important;
+    max-width: 30%; 
+}
+
+.width_70 {
+	width: 70%!important;
+}
+
+.width_100 {
+	width: 100%!important;
+}
+
+.text-red {
+	color: #ff1414!important;
+}
+
+.li-text-center {
+	display: inline!important;
+    text-align: center;
+}
+
+.hide {
+	display: none!important;
+}
+
+.clearfix {
+    padding-bottom: 10px;
+}
+
+.jFiler-input {
+	width: 100%!important;
+}
+
+.black {
+	color: black!important;
+}
+.green {
+	color: #08b200!important;
+}
+
+.grey {
+	color: #afafaf!important;
+}
+
+.red {
+	color: #c60000!important;
+}
+
+.yellow {
+	color: #968609!important;
+}
+
+.border_50 {
+    border-radius: 50%!important;
+}
+
+.x_large {
+	font-size: x-large!important;
+}
+
+.x_small {
+	font-size: x-small!important;
+}
+
+.max_width_1000px {
+	max-width: 1000px!important;
+}
+
+.height_fit {
+	height: -webkit-fill-available!important;
+}
+
+.height_90 {
+	height: 90%!important;
+}
+
+.padding_small {
+    padding: .05rem .25rem!important;
+}
+
+/*datatable search*/
+.dataTables_filter {
+	display: none;
+}
+
+.dataTables_filter_on {
+	display: inline-block!important;
+}
+
