@@ -75,11 +75,11 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '43.248.213.49',
+	'hostname' => 'localhost',
 	'port' => '3306',
-	'username' => 'airnav',
-	'password' => 'airnav2019',
-	'database' => 'edisposisi',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'mysql',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
